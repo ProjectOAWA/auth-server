@@ -1,0 +1,14 @@
+# Build files
+build
+dist
+node_modules
+
+# Logs
+*.log*
+
+# Tests
+**/coverage
+
+# Secrets
+.secret
+.env
